@@ -8,7 +8,7 @@ class QonversionApp:Application() {
         super.onCreate()
         Qonversion.setDebugMode()
         Qonversion.launch(this,
-            key = "P3_iwFqnTqsmY9OqIqjPj5LYhnchktvr",
+            key = " ",
             false
         )
     }
